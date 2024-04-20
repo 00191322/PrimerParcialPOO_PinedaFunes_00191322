@@ -99,6 +99,7 @@ public class Main {
                         flag = false;
                         break;
                     default:
+                        System.out.println("Ingrese una opcion valida (1, 2, 3, 4)");
                         break;
                 }
             } catch (Exception e) {
